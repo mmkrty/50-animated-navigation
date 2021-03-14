@@ -103,3 +103,6 @@ nav.active .icon .line1 {
 nav.active .icon .line2 {
   transform: rotate(765deg) translateY(-5.5px);
 }
+
+/* translateY(5.5px)
+translateY(-5.5px) */
